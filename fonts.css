@@ -1,0 +1,15 @@
+@font-face {
+    font-family: 'droid_serifregular';
+    src: url('fonts/DroidSerif-Regular-webfont.eot');
+    src: url('fonts/DroidSerif-Regular-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fonts/DroidSerif-Regular-webfont.woff') format('woff'),
+         url('fonts/DroidSerif-Regular-webfont.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+    unicode-range: U+0400-04FF;
+
+}
+
+body {
+    font-family: 'theano_didotregular', 'droid_serifregular', 'Arial', sans-serif;
+}
