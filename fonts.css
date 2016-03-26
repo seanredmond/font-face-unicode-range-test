@@ -7,9 +7,9 @@
          url('fonts/theanodidot-regular-webfont.ttf') format('truetype');
     font-weight: normal;
     font-style: normal;
-    unicode-range: U+0370-03FF;
+    unicode-range: U+0370-03FF, U+1F00-1FFF;
 }
-
+ 
 @font-face {
     font-family: 'droid_serifregular';
     src: url('fonts/DroidSerif-Regular-webfont.eot');
